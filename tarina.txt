@@ -1,0 +1,18 @@
+Terveisiä täältä!
+
+Tässä on ohje Commitien tekoon!
+
+Tietoa tallennetaan Git-projektiin committeina. Commit on eräänlainen paketti projektin tiedostoihin tehtyjä muutoksia. Käytännössä muutokset tarkoittavat esimerkiksi sitä, että tekstiä lisättiin tai poistettiin jostain projektin tiedostosta.
+
+Committia voi ajatella uutena askeleena kohti valmista projektia. Jokaisessa commitissa lisätään edelliseen committiin jotain muutoksia. Esimerkiksi ohjelmaa koodattaessa uuden toiminnallisuuden lisääminen voitaisiin luontevasti paketoida yhteen committiin.
+
+Commitin luominen tapahtuu niin, että siihen haluttavat muutokset lisätään staging-tilaan. Kun kaikki halutut muutokset ovat kyseisessä tilassa, ajetaan commitin luova komento, joka yhdistää kaikki stagingissa olevat muutokset yhdeksi commitiksi.
+
+Tarkastellaan seuraavaksi commitin luomista esimerkin kautta.
+
+Komento git status on erittäin hyödyllinen, sillä se antaa tietoa Git-projektin ja sen sisältämien muutosten tämänhetkisestä tilasta.
+
+
+No niin, eikö ollut helppoa?
+
+
