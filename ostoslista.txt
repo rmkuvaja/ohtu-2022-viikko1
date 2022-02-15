@@ -19,3 +19,4 @@ pavut
 linssit
 tomaattimurska
 saippua
+karkit

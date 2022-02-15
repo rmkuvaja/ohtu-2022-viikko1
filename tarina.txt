@@ -13,6 +13,7 @@ Tarkastellaan seuraavaksi commitin luomista esimerkin kautta.
 Komento git status on erittäin hyödyllinen, sillä se antaa tietoa Git-projektin ja sen sisältämien muutosten tämänhetkisestä tilasta.
 
 
-No niin, eikö ollut helppoa?
+No niin, eikö ollut helppoa? oli totta tosiaan!
+
 
 
