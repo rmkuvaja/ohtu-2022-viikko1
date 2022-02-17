@@ -1,5 +1,5 @@
 import unittest
-from varasto import Varasto#nyt kommentti on tässä
+from varasto import Varasto
 
 
 class TestVarasto(unittest.TestCase):
