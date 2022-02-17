@@ -1,4 +1,4 @@
-import unittest
+import unittest#lisäsin kommentin tänne
 from varasto import Varasto
 
 
