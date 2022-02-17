@@ -21,7 +21,7 @@ class TestVarasto(unittest.TestCase):
 
     def test_lisaa_saldoa_jos_virheellinen_lisays(self):
         self.varasto.lisaa_varastoon(-1)
-        self.assertAlmostEqual(self.varasto.saldo, 0)#Tähän voisin tehdä testivirheen, kun saan ensin tuon toimimaan.
+        self.assertAlmostEqual(self.varasto.saldo, -1)#Tähän kuuluu 0
 
     def test_konstruktori_luo_tyhjan_varaston(self):
         # https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertAlmostEqual
